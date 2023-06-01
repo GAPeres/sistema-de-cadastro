@@ -4,5 +4,5 @@
 
 Para rodas este projeto em sua maquina, por favor digite:
 ```
-npn install react
+node app.js
 ```
